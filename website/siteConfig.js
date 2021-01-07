@@ -16,13 +16,13 @@ const siteConfig = {
     tagline: 'Continuously improving, aspiring technologist.',
     profilePhoto: 'img/profile.png',
     url: 'https://janvhi-agrawal.github.io', // Your website URL
-    baseUrl: '/tech-portfolio/', // Base URL for your project */
+    baseUrl: '/portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
     //   baseUrl: '/test-site/',
 
     // Used for publishing and more
-    projectName: 'tech-portfolio',
+    projectName: 'portfolio',
     organizationName: 'janvhi-agrawal',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
@@ -76,10 +76,10 @@ const siteConfig = {
         twitter: 'https://twitter.com/janvhi_25?s=08',
         //github: 'https://github.com/',
         //facebook: 'https://www.facebook.com/',
-        instagram: 'https://instagram.com/summer_flames_?igshid=1ajnzclscqdod',
+        instagram: 'https://instagram.com/summer_flames_?igshid=1ajnzclscqdod'
         //youtube: 'https://www.youtube.com/',
         //twitch: 'https://www.twitch.tv/'
-        wordpress: 'https://www.janvhi.wordpress.com'
+        //wordpress: 'www.janvhi.wordpress.com'
     },
 };
 
