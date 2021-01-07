@@ -72,13 +72,14 @@ const siteConfig = {
     If you want to remove a social media icon, you can add the two // before the line
     or delete the line. */
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/',
-        twitter: 'https://twitter.com/',
-        github: 'https://github.com/',
+        linkedin: 'https://www.linkedin.com/in/janvhi-agrawal',
+        twitter: 'https://twitter.com/janvhi_25?s=08',
+        //github: 'https://github.com/',
         //facebook: 'https://www.facebook.com/',
-        //instagram: 'https://www.instagram.com/',
+        instagram: 'https://instagram.com/summer_flames_?igshid=1ajnzclscqdod',
         //youtube: 'https://www.youtube.com/',
         //twitch: 'https://www.twitch.tv/'
+        wordpress: 'https://www.janvhi.wordpress.com'
     },
 };
 
